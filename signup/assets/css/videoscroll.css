@@ -1,0 +1,66 @@
+/*! normalize.css v3.0.0 | MIT License | git.io/normalize */
+
+
+.containervideoscroll {
+  max-width: 720px;
+  margin: 80px auto;
+  padding: 0 30px;
+  font-family: redactedregular;
+  position: relative
+}
+
+.content-media--video {
+  background-color: #ddd;
+  display: block;
+  position: relative;
+  padding: 0 0 56.4285714286%
+}
+
+.content-media--video iframe {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%
+}
+
+#featured-video {
+  -webkit-transition: width .2s ease-in-out, height .2s ease-in-out, -webkit-transform .38s ease-in-out;
+  transition: width .2s ease-in-out, height .2s ease-in-out, -webkit-transform .38s ease-in-out;
+  transition: width .2s ease-in-out, height .2s ease-in-out, transform .38s ease-in-out;
+  transition: width .2s ease-in-out, height .2s ease-in-out, transform .38s ease-in-out, -webkit-transform .38s ease-in-out
+}
+
+#featured-video.is-sticky {
+      position: fixed;
+    top: 25px;
+    left: 340px;
+    max-width: 280px;
+    max-height: 158px;
+    width: 280px;
+    height: 158px;
+    z-index: 99;
+}
+
+@media screen and (min-width:1120px) {
+  #featured-video.is-sticky {
+    -webkit-transform: translateX(-80%);
+    transform: translateX(-80%)
+  }
+}
+
+@media screen and (min-width:1300px) {
+  #featured-video.is-sticky {
+    -webkit-transform: translateX(-115%);
+    transform: translateX(-115%)
+  }
+}
+
+@media screen and (max-width:480px) {
+  #featured-video.is-sticky {
+    top: auto;
+    bottom: 15px;
+    max-width: 200px;
+    max-height: 113px
+  }
+}

@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<?php include 'include/head.php' ?>
+
+<body id="page-top">
+
+    <!-- Header -->
+    <header class="mastheads" style="padding-top: 4rem;padding-bottom:1rem !important">
+        <div class="container text-center my-auto">
+            <div class="row">
+                <div class="col-md-12">
+                    <h2 class="mb-2 style-judul" id="headline">Mau Liburan Sekolah Anak Anda Produktif dan Edukatif?
+Bergabunglah di MERRY RIANA HOLIDAY PROGRAM!
+</h2>
+                </div>
+            </div>
+            <div class="row mt-4">
+				<div class="col-md-12 pb-2">
+					<img class="img-fluid" src="assets/img/HP/BANNER MRLC-01.jpg" width="1000px" height="600px">
+				</div>
+				<div class="col-md-9 mx-auto ">
+					<div class="vertical-center pt-4" style="position: relative;">
+						<p class="paragraf" style="font-size:24px;color:black">Salah satu kekhawatiran terbesar para orang tua menjelang libur sekolah anak adalah anak cenderung menghabiskan waktu dengan aktivitas yang kurang produktif seperti bermain game online, gadget, media sosial dan lainnya.</p>
+						<p class="paragraf" style="font-size:24px;color:black">Oleh karena hal itulah, Miss Merry Riana merancang sebuah program yang bisa menjadi solusinya yaitu MERRY RIANA HOLIDAY PROGRAM</p>
+					
+						<a href="#form-atas" style="padding-left: 36px; padding-right: 36px;"
+							class="btn btn-lg maroon mt-4"><i class="far fa-hand-point-right"></i> Daftar Sekarang</a>
+					</div>
+				</div>
+			</div>
+        </div>
+    </header>
+	<div class="warna-bg-abu">
+		<div class="container py-5 text-center">
+			<!-- <div class="row">
+                <div class="col-lg-12 mb-5 mx-auto">
+                    <h2 class="heading-section-2" id="title_enrolling">12% KESUKSESAN DISUMBANG OLEH IQ, 88% SISANYA OLEH I CAN!
+                    </h2>
+                </div>
+            </div> -->
+			<div class="row">
+				<div class="col-md-6 align-self-center">
+					<img class="img-fluid" src="assets/img/HP/LP HP 3.jpg" width="100%" height="600px">
+				</div>
+				<div class="col-md-6 align-self-center">
+					<ul class="spasi cek">
+						<li class="li-bantu-sukses">Apakah Anda sering melihat anak Anda sibuk bermain gadget, nonton TV atau menghabiskan waktu dengan kegiatan kurang produktif lainnya saat libur sekolah?</li>
+						<li class="li-bantu-sukses">Apakah Anda ingin anak Anda melakukan kegiatan yang lebih produktif dan edukatif?</li>
+						<li class="li-bantu-sukses">Apakah Anda ingin anak Anda memiliki kemampuan berbicara di depan umum, memiliki impian yang jelas dan menguasai teknik belajar yang efektif?</li>
+                    </ul>
+                    <p class="enrolling" style="color:black">Jika Anda menjawab YA, artinya anak Anda harus bergabung di MERRY RIANA HOLIDAY PROGRAM by Merry Riana Learning Centre!
+</p>
+				</div>
+					<div class="col-md-12">
+				<a href="#form-atas" style="padding-left: 36px; padding-right: 36px;" class="btn btn-lg maroon"><i
+						class="far fa-hand-point-right"></i> Daftar Sekarang</a>
+			</div>
+			</div>
+		</div>
+    </div>
+    <div class="warna-background-putih">
+		<div class="container py-5 text-center">
+			<div class="col-md-10 mx-auto">
+				<p class="paragraf-3-black" style="color:black">Sebagai seorang yang memiliki passion di dunia edukasi, Miss Merry Riana telah melatih ribuan anak & remaja sejak tahun 2008.</p>
+				<p class="paragraf-3-black" style="color:black">Saat ini, program-program yang ada di MRLC sendiri telah mencetak ribuan Students dari seluruh Indonesia, salah satunya MERRY RIANA HOLIDAY PROGRAM.</p>
+				<p class="paragraf-3-black" style="color:black">Program ini hanya diadakan 2 kali setahun setiap libur semester sekolah.</p>
+			</div>
+		
+			<div class="col-md-12 pb-4 pt-4">
+				<a href="#form-atas" style="padding-left: 36px; padding-right: 36px;" class="btn btn-lg maroon"><i
+						class="far fa-hand-point-right"></i> Daftar Sekarang</a>
+			</div>
+		</div>
+	</div>
+    <div class="warna-background" style="background:#27aae2;">
+        <div class="container py-5 text-center">
+            <div class="row">
+                <div class="col-lg-10 mx-auto">
+                    <div class="video-container">
+                        <iframe width="800" height="" src="https://www.youtube.com/embed/ddDoU2z5aTE" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="warna-bg-abu">
+		<div class="container py-5 text-center">
+			<div class="row">
+				<div class="col-lg-12 mb-5 mx-auto">
+					<h2 class="heading-section-2" id="title_enrolling">Apa saja yang akan anak Anda dapatkan?
+					</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6 align-self-center">
+					<img class="img-fluid" src="assets/img/HP/LP HP 2.jpg" width="100%" height="600px">
+				</div>
+				<div class="col-sm-6 mx-auto">
+					<ul class="spasi">
+						<li class="li-bantu-sukses">Full Day Workshop (7 hari)</li>
+						<li class="li-bantu-sukses">Workbook</li>
+						<li class="li-bantu-sukses">Sertifikat</li>
+						<li class="li-bantu-sukses">Free Lunch + snack (7 hari)</li>
+						<li class="li-bantu-sukses">Showcase (anak akan tampil di depan para orangtua)</li>
+                        <li class="li-bantu-sukses">Belajar teknik-teknik Public Speaking, Smart Learning, dan Life & Success</li>
+                        <li class="li-bantu-sukses">Belajar dengan enjoy dan fun menggunakan Experiential Learning Technologies atau pengalaman nyata</li>
+					</ul>
+				</div>
+					<div class="col-md-12">
+				<a href="#form-atas" style="padding-left: 36px; padding-right: 36px;" class="btn btn-lg maroon"><i
+						class="far fa-hand-point-right"></i> Daftar Sekarang</a>
+			</div>
+			</div>
+		</div>
+    </div>
+    <div class="warna-background-putih">
+		<div class="container py-5 text-center">
+			<div class="row">
+				<div class="col-lg-12 mb-5 mx-auto">
+					<h2 class="heading-section-2" id="title_enrolling">Merry Riana Holiday Program diikuti oleh ratusan anak dari Jabodetabek hingga luar kota dan mereka sangat antusias selama program berlangsung.
+					</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6 align-self-center">
+					<img class="img-fluid" src="assets/img/HP/LP HP 5.jpg" width="100%" height="600px">
+				</div>
+				<div class="col-md-6 align-self-center">
+					<p class="paragraf-2" style="color:black">
+                    Apa yang membedakan MERRY RIANA HOLIDAY PROGRAM dengan program sejenis lainnya?
+                    </p>
+                    <ul class="spasi">
+                        <li class="li-bantu-sukses">Diadakan saat liburan sekolah sehingga menjadikan liburan anak Anda produktif dan edukatif</li>
+                        <li class="li-bantu-sukses">Mengajarkan soft skill Public Speaking, Smart Learning, Life & Success yang tidak pernah diajarkan di bangku pendidikan formal</li>
+                        <li class="li-bantu-sukses">Dilatih langsung oleh Merry Riana Associate Trainer yang telah berpengalaman melatih hingga ribuan anak setiap tahunnya</li>
+                        <li class="li-bantu-sukses">Anak anda akan dibimbing oleh seorang group coach</li>
+                        <li class="li-bantu-sukses">Lingkungan yang sangat positif karena setiap anak akan mendapatkan apresiasi dan merasa sangat dihargai</li>
+                        <li class="li-bantu-sukses">Showcase. Setiap anak akan tampil di depan para orangtua</li>
+                        <li class="li-bantu-sukses">Investasi yang sangat terjangkau dan pembelajaran yang didapatkan sangat bermanfaat bagi masa depan anak Anda</li>
+                    </ul>
+				</div>
+					<div class="col-md-12">
+				<a href="#form-atas" style="padding-left: 36px; padding-right: 36px;" class="btn btn-lg maroon"><i
+						class="far fa-hand-point-right"></i> Daftar Sekarang</a>
+			</div>
+			</div>
+		</div>
+    </div>
+    
+    
+	<div class="warna-background" style="background:#27aae2;">
+		<div class="container py-5 text-center">
+			<div class="row">
+				<div class="col-lg-12 mb-5 mx-auto">
+					<h2 class="heading-section-2" id="title_enrolling" style="color: #f8f8f8;">Siapa saja yang cocok mengikuti program ini?
+					</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-6 align-self-center">
+					<img class="img-fluid" src="assets/img/HP/LP HP 8.jpg" width="700px" height="600px">
+				</div>
+				<div class="col-md-6 align-self-center">
+					<p class="paragraf-2" style="color: #f8f8f8;">MERRY RIANA HOLIDAY PROGRAM sangat cocok diikuti oleh anak & remaja mulai dari SD hingga SMA yang berusia 8-19 tahun yang siap meraih sukses di sekolah dan di kehidupan.</p>
+				</div>
+			</div>
+			<div class="row mt-4">
+				<div class="col-md-12">
+					<a href="#form-atas" style="padding-left: 36px; padding-right: 36px;" class="btn btn-lg maroon"><i
+							class="far fa-hand-point-right"></i> Daftar Sekarang</a>
+				</div>
+			</div>
+		</div>
+	</div>
+    <div style="background-color: #f8f8f8">
+        <div class="container py-5 text-center">
+            <h2>Tunggu dulu! Buat Anda yang masih mikir-mikir untuk daftarkan anak Anda atau tidak, simak apa kata mereka yang sudah merasakan dampaknya.</h2>
+            <div class="row mt-5">
+                <div class="col-md-6 align-self-center">
+                    <img class="img-fluid" src="assets/img/HP/testimoni hpps-01.png" style="width: 100%">
+                </div>
+                <div class="col-md-6 align-self-center">
+                    <img class="img-fluid" src="assets/img/HP/testimoni hpps-02.png" style="width: 100%">
+                </div>
+            </div>
+            <div class="row mt-4">
+                <div class="col-md-6 align-self-center">
+                    <img class="img-fluid" src="assets/img/HP/testimoni hpps-03.png" style="width: 100%">
+                </div>
+                <div class="col-md-6 align-self-center">
+                    <img class="img-fluid" src="assets/img/HP/testimoni hpps-04.png" style="width: 100%">
+                </div>
+            </div>
+            <div class="row text-center">
+              <div class="col-md-12 pb-4">
+                <h2 class="my-4">Sudah siap merasakan manfaatnya seperti mereka?</h2>
+                <a href="#form-atas" style="padding-left: 36px; padding-right: 36px;" class="btn btn-lg maroon"><i class="far fa-hand-point-right"></i> Daftar Sekarang</a>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="warna-background-putih">
+		<div class="container text-center">
+			<div class="row mt-5">
+				<div class="col-12 position-relative">
+					<h2 class="section-title text-center">Catat jadwalnya!</h2>
+				</div>
+				<div class="col-lg-6 mx-auto text-center">
+					<table class="mx-auto paragraf-3-black pb-3">
+                        <tr>
+                            <td class="text-left">Tanggal</td>
+                            <td class="text-left" style="width:20px;" >:</td>
+                            <td class="text-left">1-7 Juli 2021 (Kamis - Rabu)</td>
+                        </tr>
+						<tr>
+                            <td class="text-left">Waktu</td>
+                            <td class="text-left" style="width:20px;" >:</td>
+                            <td class="text-left">10.00 - 17.00 waktu setempat</td>
+                        </tr>
+						<tr>
+                            <td class="text-left">Pembicara</td>
+                            <td class="text-left" style="width:20px;" >:</td>
+                            <td class="text-left">Merry Riana Associate Trainer</td>
+                        </tr>
+                        <tr>
+                            <td class="text-left">Tempat</td>
+                            <td class="text-left" style="width:20px;" >:</td>
+                            <td class="text-left"> (sesuai lokasi yang dipilih)</td>
+                        </tr>
+                    </table>
+				</div>
+				<div class="col-md-10 mb-3 mx-auto align-self-center mx-auto">
+				    <img class="img-fluid" src="assets/img/HP/BRANCH.png" style="width: 100%;">
+			    </div>
+			</div>
+			<div class="card mb-5 text-center mt-5">
+				<div class="card-body">
+					<div class="row mt-2">
+						<div class="col-lg-9 mx-auto">
+							<div class="" style="background-color: white; border-radius: 10px;">
+								<h2 class="heading-section-4" id="discount_header">INVESTASI</h2>
+								<h2 class="heading-harga mt-4" style="color: black;" id="discount_cross"><i><strike>Rp
+											10.500.000 / </strike></i></h2>
+								<h2 class="heading-harga mt-4" style="color: red;" id="discount_price"><i>HARGA SPESIAL
+										TERBATAS UNTUK 100 PENDAFTAR PERTAMA<br>RP. 3.500.000</i></h2>
+							</div>
+						</div>
+					</div>
+
+				</div>
+
+			</div>
+			<div class="row">
+                <div class="col-lg-10 mx-auto">
+                    <div class="video-container">
+                    <iframe src="https://www.youtube.com/embed/ycxHJYHgMuM" frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                            allowfullscreen></iframe>
+                    </div>
+				</div>
+			</div>
+						
+				<div class="row mt-4 pb-5">
+					<div class="col-md-12">
+						<a href="#form-atas" style="padding-left: 36px; padding-right: 36px;"
+							class="btn btn-lg maroon"><i class="far fa-hand-point-right"></i> Daftar Sekarang</a>
+					</div>
+				</div>
+		</div>
+	</div>
+	</div>
+
+    <div class="warna-background" style="background:#27aae2;">
+        <div class="container py-5 text-center">
+            <div class="row">
+                <div class="col-md-6 mx-auto align-self-center">
+                    <img class="img-fluid"  src="assets/img/HP/LP HP 9.jpg" width="100%" height="400px">
+                </div>
+                <div class="col-md-6 mx-auto align-self-center pt-1">
+                    <p style="    font-size: 33px;color:white;
+    font-weight: 900;
+    line-height: 1em;
+    text-align: center;">Mau menjadikan liburan anak Anda bermanfaat?</p><br>
+                    <p style="    font-size: 33px;color:white;
+    font-weight: 900;
+    line-height: 1em;
+    text-align: center;">Tunggu apa lagi, segera daftarkan anak Anda di MERRY RIANA HOLIDAY PROGRAM sebelum kuota full!</p>
+                </div>
+			</div>
+			<div class="row mt-4">
+					<div class="col-md-12">
+						<a href="#form-atas" style="padding-left: 36px; padding-right: 36px;"
+							class="btn btn-lg maroon"><i class="far fa-hand-point-right"></i> Daftar Sekarang</a>
+					</div>
+				</div>
+        </div>
+    </div>
+    
+    <div class="warna-bg-abu">
+        <div class="container py-4">
+                            <h2 class="mb-4 style-judul-form" id="title_registration_bottom">
+                                Silakan isi data diri Anda,<br /> sebelum melanjutkan.</h2>
+            <div class="row justify-content-center" id="form-atas">
+                <div class="col-md-7">
+                    <?php include 'include/registration_atas.php' ?>
+                </div>
+            </div>
+        </div>
+    </div>
+
+	<div class="warna-background-putih">
+		<div class="container py-5 ">
+			<div class="row">
+				<div class="col-lg-12 mb-5 text-center mx-auto">
+					<h2 class="heading-section-2" id="title_enrolling">FAQ</h2>
+				</div>
+			</div>
+			    <div id="accordion">
+        <div class="card">
+            <div class="card-header" id="headingOne">
+                <div class="row">
+                    <div class="col-md-11 text-left align-self-center">
+                        <h5 class="mb-0">1. Apa saja yang akan dipelajari?</h5>
+                    </div>
+                    <div class="col-md-1 text-right align-self-center">
+                        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"
+                            aria-expanded="true" aria-controls="collapseOne">+</button>
+                    </div>
+                </div>
+            </div>
+            <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                <div class="card-body">Ada 3 kurikulum.<br>
+                - Pertama, Public Speaking (hari 1-3). Mengajarkan teknik-teknik Public Speaking agar anak Anda mampu berbicara di depan umum dengan percaya diri dan bisa langsung diaplikasikan di sekolah, seperti presentasi, pidato dan lainnya.<br>
+                - Kedua, Smart Learning (hari 4-5). Mengajarkan teknik-teknik belajar yang efektif sehingga membantu meningkatkan prestasi anak Anda di bidang akademik.<br>
+                - Ketiga, Life & Success (hari 6-7). Mengajarkan 6 Life Skill paling penting dalam kehidupan sehingga membantu anak Anda untuk meraih sukses dalam kehidupan.</div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header" id="headingTwo">
+                <div class="row">
+                    <div class="col-md-10 text-left align-self-center">
+                        <h5 class="mb-0">2. Apakah range usia 8 - 19 tahun tidak terlalu jauh untuk membuat pembelajaran efektif?</h5>
+                    </div>
+                    <div class="col-md-2 text-right align-self-center">
+                        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseTwo"
+                            aria-expanded="true" aria-controls="collapseTwo">+</button>
+                    </div>
+                </div>
+            </div>
+            <div id="collapseTwo" class="collapse" aria-labelledby="collapseTwo" data-parent="#accordion">
+                <div class="card-body">Di kelas, anak akan dikelompokan (gruping) berdasarkan 2 kategori usia yaitu junior (8-13 tahun) dan senior (14-19 tahun) sehingga anak lebih mudah berbaur satu sama lain dan proses pembelajaran pun menjadi efektif.
+Selain itu anak juga akan didampingi oleh masing-masing Group Coach.</div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header" id="headingThree">
+                <div class="row">
+                    <div class="col-md-10 text-left align-self-center">
+                        <h5 class="mb-0">
+                            3. Anak saya di luar rentang usia 8-19 tahun tetapi ngotot mau ikut, apakah bisa?
+                        </h5>
+                    </div>
+                    <div class="col-md-2 text-right align-self-center">
+                        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseThree"
+                            aria-expanded="true" aria-controls="collapseThree">+</button>
+                    </div>
+                </div>
+            </div>
+            <div id="collapseThree" class="collapse" aria-labelledby="collapseThree" data-parent="#accordion">
+                <div class="card-body">
+                  Selagi seat masih tersedia, bisa. Berdasarkan pengalaman dari setiap batch sebelumnya, beberapa Students kami ada yang berusia 6 tahun dan ada juga yang berusia 20 tahun dan bisa tetap enjoy mengikuti setiap rangkaian kegiatan.</a>
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header" id="headingFour">
+                <div class="row">
+                    <div class="col-md-10 text-left align-self-center">
+                        <h5 class="mb-0">
+                            4. Jika daftar lebih dari 1 anak, apakah boleh request adik beradik digabung dalam satu grup?
+                        </h5>
+                    </div>
+                    <div class="col-md-2 text-right align-self-center">
+                        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseFour"
+                            aria-expanded="true" aria-controls="collapseFour">+</button>
+                    </div>
+                </div>
+            </div>
+            <div id="collapseFour" class="collapse" aria-labelledby="collapseFour" data-parent="#accordion">
+                <div class="card-body">
+                   Boleh dengan catatan di kategori usia yang sama (sama-sama di rentang usia junior 8-13 tahun atau senior 14-19 tahun), Anda bisa menginfokan ke tim kami pada saat pendaftaran.
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header" id="headingFive">
+                <div class="row">
+                    <div class="col-md-10 text-left align-self-center">
+                        <h5 class="mb-0">
+                            5. Apakah orang tua harus hadir mendampingi?
+                        </h5>
+                    </div>
+                    <div class="col-md-2 text-right align-self-center">
+                        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseFive"
+                            aria-expanded="true" aria-controls="collapseFive">+</button>
+                    </div>
+                </div>
+            </div>
+            <div id="collapseFive" class="collapse" aria-labelledby="collapseFive" data-parent="#accordion">
+                <div class="card-body">
+                   Tidak. Orang tua hanya hadir pada saat Showcase saja yaitu di hari ke-3, hari ke-5 dan hari ke-7 saja.
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header" id="headingFive">
+                <div class="row">
+                    <div class="col-md-10 text-left align-self-center">
+                        <h5 class="mb-0">
+                            6. Pada saat Showcase, apakah ada hal-hal yang perlu dibawa oleh orang tua?
+                        </h5>
+                    </div>
+                    <div class="col-md-2 text-right align-self-center">
+                        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseSix"
+                            aria-expanded="true" aria-controls="collapseSix">+</button>
+                    </div>
+                </div>
+            </div>
+            <div id="collapseSix" class="collapse" aria-labelledby="collapseSix" data-parent="#accordion">
+                <div class="card-body">
+                  Tidak. Anda cukup hadir saja untuk menyaksikan anak Anda perform dan mengikuti instruksi dari para Trainer MRLC yang sedang bertugas.
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-header" id="headingFive">
+                <div class="row">
+                    <div class="col-md-10 text-left align-self-center">
+                        <h5 class="mb-0">
+                            7. Apakah boleh diwakilkan oleh anggota keluarga lain?
+                        </h5>
+                    </div>
+                    <div class="col-md-2 text-right align-self-center">
+                        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseSeven"
+                            aria-expanded="true" aria-controls="collapseSeven">+</button>
+                    </div>
+                </div>
+            </div>
+            <div id="collapseSeven" class="collapse" aria-labelledby="collapseSeven" data-parent="#accordion">
+                <div class="card-body">
+                   Jika Anda sebagai orang tua berhalangan, boleh diwakilkan oleh anggota keluarga lainnya (saudara kandung, paman, dll)
+                </div>
+            </div>
+        </div>
+      
+		</div>
+	</div>
+	        <div class="">
+        <div class="container ">
+            <div class="mt-2 text-center col-12">
+		        <div class="af-element privacyPolicy w-100" style="text-align: center;margin-top:0px;">
+        			<p style="font-family:'Open-sans', Sans-serif !important">Untuk mengetahui info lebih lanjut, hubungi:<br>Telp : (021) 2911 7888<br>WA : +62 878 2999 2888</p>
+        			<p class="text-center" style="font-size:14px;color:black;font-family:'Open-sans', Sans-serif !important">We respect your <a href="https://www.aweber.com/permission.htm" style="color: #000" target="_blank" rel="nofollow">email privacy</a></p>
+        			<p class="text-center" style="font-size:14px;color:black;font-family:'Open-sans', Sans-serif !important">Copyright © 2020 PT Merry Riana Learning Centre. All Rights Reserved.</p>
+    		    </div>
+	        </div>        
+        </div>
+        </div>
+            <!-- FORM MIDTRANS REDIRECT-->
+    <form id="payment-form" method="post" action="https://merryrianalearningcentre.com/thanks/thanks-mrlc/">
+    <input type="hidden" name="result_type" id="result-type" value="">
+    <input type="hidden" name="result_data" id="result-data" value="">
+    </form>
+    <!-- Scroll to Top Button-->
+    <a class="scroll-to-top rounded js-scroll-trigger" href="#page-top">
+        <i class="fas fa-angle-up"></i>
+    </a>
+    
+    <?php include 'include/footer.php';?>
+    
+    <!-- Script Snap JS -->
+    <?php $aff = (!empty($_GET['ref'])) ? $_GET['ref'] : null; ?> 
+	<?php if($aff == "" || $aff == null || $aff == 'MRG00001') { ?>
+	<!--mrlc-->
+	<script type="text/javascript" src="https://app.midtrans.com/snap/snap.js" data-client-key="Mid-client-6qLFQEqlHZbVS92m"></script>
+	<?php } else { ?>
+	<!-- m1 -->
+	<script type="text/javascript" src="https://app.midtrans.com/snap/snap.js" data-client-key="Mid-client-s37TjiIpP7nb5J1u"></script>
+	<?php } ?>
+    <!-- Tutup Script Snap JS -->
+    
+    <script>
+         // Generate kode pembayaran dan url payment api
+        var dt = new Date();
+        var affiliate = "<?php echo (!empty($_GET['ref'])) ? $_GET['ref'] : "MRG00001"; ?>";
+        var kodeAwal;
+        var rand;
+        var typeSource;
+        
+        if(affiliate != 'MRG00001') {
+            kodeAwal = 'M1ID-';
+            rand  = (Math.floor(Math.random() * 10 ** 7)).toString();
+            urlSnap = "https://merryriana.com/server_api/payment_snap";
+            typeSource = 'LPAFF';
+        } else {
+    		kodeAwal = 'MRLCID-';
+    		rand  = (Math.floor(Math.random() * 10 ** 5)).toString();
+            urlSnap = "https://merryriana.com/server_api/payment_sp_mrlc";
+            typeSource = "<?php echo (!empty($_GET['source'])) ? $_GET['source'] : "DIRECT"; ?>";
+            
+        }
+    	var year  = dt.getFullYear().toString().substr(2,2);
+    	var month = (dt.getMonth() + 1).toString().padStart(2, "0");
+        var day   = dt.getDate().toString().padStart(2, "0");
+    	var kodePembayaran = kodeAwal + year + month + day + rand;
+    	// tutup Generate kode pembayaran dan url payment api
+    	
+    	// Deklarasi object data customer
+        var dataCustomer = {
+            id_buku: "-",
+            name: "",
+            email: "",
+            phone: "",
+            shipping_details: null,
+            catatan: "catatan",
+            source: "m1sf",
+            code: "merch",
+            campaign: "merch-m1",
+            aff: affiliate,
+            order_id: kodePembayaran
+        };
+        // tutup Deklarasi object data customer
+        
+        // Deklarasi object data pembayaran
+        var item = {};
+        var dataProduk = [];
+        var dataPembayaran = [];
+
+        // tutup Deklarasi object data pembayaran
+    </script>
+    <?php include 'include/script_atas.php' ?>
+    
+</body>
+
+</html>

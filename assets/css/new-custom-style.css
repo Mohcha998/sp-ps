@@ -1,0 +1,412 @@
+header {
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: relative;
+}
+
+header::after {
+  content: "";
+  background-color:blue;
+  /*background: url();*/
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
+}
+
+  .mastheads {
+      min-height: 30rem;
+      position: relative;
+      display: table;
+      width: 100%;
+      height: auto;
+      padding-top: 8rem;
+      padding-bottom: 8rem;
+      background: #ffffff;
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+
+  .mastheads h1 {
+      font-size: 4rem;
+      margin: 0;
+      padding: 0;
+  }
+  
+  @media (min-width: 992px) {
+      .mastheads h1 {
+          font-size: 5.5rem;
+      }
+	  
+	  .header-pic{
+		  width: 30% ;
+	  }
+
+    .instructor_pricing_widget {
+        padding: 30px 15px;
+    }
+  }
+  
+   @media (max-width: 950px) {
+      .mobile-view {
+          display : block;
+      }
+
+      .desktop-view {
+          display : none;
+      }
+	  
+		.header-pic{
+		  width: 50% ;
+	  }
+  }
+  
+   @media (min-width: 950px) {
+      .mobile-view {
+          display : none;
+      }
+
+      .desktop-view {
+          display : block;
+      }
+  }
+
+  .warna-background {
+      background-color: #3f0d12;
+  }
+
+  .warna-background-putih {
+      background-color: #fff;
+  }
+
+  .style-judul {
+      color: #000;
+      font-family: "Montserrat", Sans-serif;
+      font-size: 35px;
+      font-weight: 700;
+      line-height: 1.40em;
+      letter-spacing: 0.1px;
+  }
+
+  .paragraf {
+      color: #be1e2d;
+      font-family: "Montserrat", Sans-serif;
+      font-size: 20px;
+      font-weight: 400;
+      line-height: 1.3em;
+      text-align: left;
+  }
+
+  .paragraf-2 {
+      color: #2d2d2d;
+      font-family: "Open Sans", Sans-serif;
+      font-size: 22px;
+      font-weight: 400;
+      line-height: 1.3em;
+      text-align: left;
+  }
+
+  .paragraf-3 {
+      color: #fff;
+      font-family: "Open Sans", Sans-serif;
+      font-size: 22px;
+      font-weight: 400;
+      line-height: 1.3em;
+      text-align: left;
+  }
+
+  .paragraf-3-black {
+    color: #2d2d2d;
+    font-family: "Open Sans", Sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 1.3em;
+    text-align: left;
+}
+
+  .paragraf-4 {
+      color: #fff;
+      font-family: "Open Sans", Sans-serif;
+      font-size: 22px;
+      font-weight: 400;
+      line-height: 1.3em;
+      text-align: center;
+  } 
+
+  .paragraf-5 {
+      color: #fff;
+      font-family: "Open Sans", Sans-serif;
+      font-size: 22px;
+      font-weight: 400;
+      line-height: 1.3em;
+      text-align: left;
+  }
+
+  .heading-section-2 {
+      color: #2d2d2d;
+      font-family: "Montserrat", Sans-serif;
+      font-size: 46px;
+      font-weight: 700;
+      line-height: 1.05em;
+      letter-spacing: -1.8px;
+  }
+
+  .heading-section-3 {
+      color: #fff;
+      font-family: "Montserrat", Sans-serif;
+      font-size: 46px;
+      font-weight: 700;
+      line-height: 1.05em;
+      letter-spacing: -1.8px;
+  }
+
+  .heading-section-4 {
+      color: #2d2d2d;
+      font-family: "Montserrat", Sans-serif;
+      font-size: 46px;
+      font-weight: 700;
+      line-height: 1.05em;
+      letter-spacing: -1.8px;
+  }
+
+  .heading-harga {
+      color: #ae0001;
+      font-family: "Montserrat", Sans-serif;
+      font-size: 46px;
+      font-weight: 900;
+      line-height: 1em;
+      letter-spacing: 1px;
+  }
+
+  .maroon {
+      background-color: #ae0001;
+      color: #fff;
+  }
+
+  .list-content {
+      color: #666;
+      font-family: "Open Sans", Sans-serif;
+      font-size: 20px;
+      line-height: 1em;
+      text-align: left;
+  }
+
+  ul {
+      list-style: none;
+      padding: 0;
+  }
+
+  li {
+      /*padding-left: 1.3em;*/
+      padding-left: 0px;
+      text-align: left;
+      font-size: 24px;
+      line-height: normal;
+      font-family: "Open Sans", Sans-serif;
+      color: #666666;
+  }
+
+  .spasi li {
+      padding-bottom: 1em;
+  }
+
+  /*li:before {*/
+  /*    content: "\f058";*/
+      /* FontAwesome Unicode */
+  /*    font-family: FontAwesome;*/
+  /*    display: inline-block;*/
+  /*    margin-left: -1.3em;*/
+      /* same as padding-left set on li */
+  /*    width: 1.3em;*/
+      /* same as padding-left set on li */
+  /*    color: #2E70C3;*/
+  /*}*/
+
+  /*.cek li:before {*/
+  /*    content: "\f00c";*/
+      /* FontAwesome Unicode */
+  /*    font-family: FontAwesome;*/
+  /*    display: inline-block;*/
+  /*    margin-left: -1.3em;*/
+      /* same as padding-left set on li */
+  /*    width: 1.3em;*/
+      /* same as padding-left set on li */
+  /*    color: #fff;*/
+  /*}*/
+
+  .bintang {
+      color: #ed3838;
+      font-family: "Open Sans", Sans-serif;
+      font-size: 20px;
+      font-weight: 400;
+      letter-spacing: 1px;
+  }
+
+  .iti__flag {
+      background-image: url("build/img/flags.png");
+  }
+
+  @media (-webkit-min-device-pixel-ratio: 2),
+  (min-resolution: 192dpi) {
+      .iti__flag {
+          background-image: url("build/img/flags@2x.png");
+      }
+  }
+
+  .iti--allow-dropdown {
+      width: 100%;
+      /* margin-bottom: 25px; */
+  }
+
+  .video-container {
+      position: relative;
+      padding-bottom: 56.25%;
+      padding-top: 30px;
+      height: 0;
+      overflow: hidden;
+  }
+
+  .video-container iframe,
+  .video-container object,
+  .video-container embed {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+  }
+
+  video {
+      width: 100%;
+      height: auto;
+  }
+
+  .halaman {
+      color: #2E70C3;
+  }
+
+  .li-bantu-sukses {
+      color: black;
+      font-size: 24px;
+      font-family: "Open Sans", Sans-serif;
+  }
+
+  .p-bantu-sukses {
+      text-align: left;
+      margin-left: 1.5em;
+      font-size: 20px;
+      color: #666666;
+      font-family: "Open Sans", Sans-serif;
+  }
+
+  .kotak-hijau {
+      background-color: #00a99d;
+      border-radius: 10px;
+      color: white;
+      padding: 24px 24px 24px 24px;
+      min-height: 600px;
+  }
+
+  .kotak-hitam {
+    background-color: #2d2d2d;
+    border-radius: 10px;
+    color: white;
+    padding: 24px 24px 24px 24px;
+    min-height: 600px;
+}
+
+  html,
+  body {
+      width: 100%;
+      height: 100%;
+      margin: 0px;
+      padding: 0px;
+      overflow-x: hidden;
+      scroll-behavior: smooth;
+  }
+
+  .enrolling {
+    font-size: 17px;
+    line-height: normal;
+    font-family: "Montserrat", Sans-serif;
+    color: #666666;
+  }
+
+@media screen and (min-width: 768px) {
+    #enrolling_content_row{
+        margin-top: 50px;
+    }
+
+    #solution2_row{
+        margin-top: 3rem !important;
+    }
+
+    #discount_cross,
+    #discount_price{
+        font-size: 60px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    #headline,
+    #title_registration_top,
+    #title_enrolling,
+    #title_solution1,
+    #title_solution2,
+    #title_promo,
+    #title_benefit1,
+    #title_benefit2,
+    #title_discount,
+    #title_cta,
+    #title_registration_bottom
+    {
+        font-size: 30px; 
+        line-height: 50px
+    }
+
+    #enrolling_content_row{
+        margin-top: -73px;
+    }
+
+    #enrolling_content{
+        margin-top: -47px;
+    }
+
+    #solution2_row{
+        margin-top: -50px;
+    }
+
+    #solution2_answer{
+        margin-top: 50px;
+    }
+
+    #content_promo_row{
+        margin-top: -80px;
+    }
+
+    #content_promo{
+        margin-top: -30px;
+    }
+
+    #discount_header{
+        font-size: 29px;
+    }
+
+    #discount_cross{
+        font-size: 48px;
+    }
+    #discount_price{
+        font-size: 42px;
+    }
+    
+}
+
+.no-space {
+	white-space:nowrap;
+}

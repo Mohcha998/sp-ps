@@ -1,0 +1,1 @@
+[15-Dec-2020 07:37:47 UTC] PHP Fatal error:  Call to undefined method Thanks::check_status() in /home/mrlc/public_html/thanks/thanks-mrlc/application/controllers/Thanks.php on line 33

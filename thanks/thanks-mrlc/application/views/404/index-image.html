@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en-us" class="no-js">
+
+<head>
+    <meta charset="utf-8">
+    <title>Browser Not Supported</title>
+    <meta name="description" content="The description should optimally be between 150-160 characters.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="ThemeHelite">
+
+    <!-- ================= Favicons ================== -->
+    <!-- Standard -->
+    <link rel="shortcut icon" href="404/img/favicon.png">
+    <!-- Retina iPad Touch Icon-->
+    <link rel="apple-touch-icon" sizes="144x144" href="404/img/favicon-retina-ipad.png">
+    <!-- Retina iPhone Touch Icon-->
+    <link rel="apple-touch-icon" sizes="114x114" href="404/img/favicon-retina-iphone.png">
+    <!-- Standard iPad Touch Icon-->
+    <link rel="apple-touch-icon" sizes="72x72" href="404/img/favicon-standard-ipad.png">
+    <!-- Standard iPhone Touch Icon-->
+    <link rel="apple-touch-icon" sizes="57x57" href="404/img/favicon-standard-iphone.png">
+
+    <!-- ============== Resources style ============== -->
+    <link rel="stylesheet" type="text/css" href="404/css/style.css" />
+</head>
+
+<body>
+
+    <div class="image"></div>
+    <div class="content">
+
+        <div class="content-box">
+            <div class="big-content">
+
+                <!-- Main squares for the content logo in the background -->
+                <img src="404/img/mrg-logo.png" class="logo" alt="Company's logo" width="100%" />
+
+            </div>
+
+            <!-- Your text -->
+            <h1 style="font-weight:800;letter-spacing: 3px;">MAAF</h1>
+
+            <p style="font-size:16px;font-weight:400; letter-spacing: 2px; color:#fff;">Browser Safari tidak didukung
+                oleh sistem kami.<br>
+                Silahkan gunakan browser <a href="https://www.google.com/chrome/" target="_blank" style="color:#FDC830;font-weight: 600;">Google
+                    Chrome</a>
+                atau <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank" style="color:#FDC830;font-weight: 600;">Mozilla
+                    Firefox.</a>
+            </p>
+
+            <div class="row">
+                <div class="col-xs-10">
+                    <input type='text' class='form-control text-center' id='url' style='margin-top:20px;'>
+                </div>
+                <div class="col-xs-2">
+                    <button type="button" class="btn btn-danger btn-copy" style="margin-top:20px;" onclick="Copy();"><i
+                            class="fa fa-copy"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="row" style="margin-top:20px;">
+                <div class="col-xs-12 text-center">
+                    <a href="http://wa.me/6282236031694" class="btn btn-success"><i class="fa fa-whatsapp"></i> Hubungi Kami</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </div>
+
+    <!-- ///////////////////\\\\\\\\\\\\\\\\\\\ -->
+    <!-- ********** jQuery Resources ********** -->
+    <!-- \\\\\\\\\\\\\\\\\\\/////////////////// -->
+
+    <!-- * Libraries jQuery and Bootstrap - Be careful to not remove them * -->
+    <script src="404/js/jquery.min.js"></script>
+    <script src="404/js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+        var text = window.location.href;
+        var textlink = "";
+        $('#url').val(text);
+        function Copy() {
+            var copyText = document.getElementById("url");
+            copyText.select(); document.execCommand("copy");
+        } 
+    </script>
+</body>
+
+</html>
